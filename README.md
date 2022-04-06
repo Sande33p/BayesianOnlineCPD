@@ -1,0 +1,3 @@
+# Bayesian Online Change Point Detection
+
+Sandeep Madireddy, Prasanna Balaprakash, Philip Carns, Robert Latham, Glenn K. Lockwood, Robert Ross, Shane Snyder, and Stefan M. Wild. 2019. Adaptive Learning for Concept Drift in Application Performance Modeling. In Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019). ACM, New York, NY, USA, Article 79, 11 pages. DOI: https://doi.org/10.1145/3337821.3337922
